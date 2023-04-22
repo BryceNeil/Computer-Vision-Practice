@@ -9,3 +9,5 @@ Practicing computer vision in Python using libraries such as OpenCV and Mediapip
 
 ## Face Detection
 <img width="1278" alt="Screenshot 2023-04-22 at 1 38 27 PM" src="https://user-images.githubusercontent.com/100434551/233798849-e8b5ee0f-b657-4ca9-907b-8bed83abe190.png">
+
+## Face Mesh
